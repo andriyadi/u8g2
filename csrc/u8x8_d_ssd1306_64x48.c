@@ -191,6 +191,12 @@ static const u8x8_display_info_t u8x8_ssd1306_64x48_display_info =
   /* flipmode_x_offset = */ 32,
   /* pixel_width = */ 64,
   /* pixel_height = */ 48
+//    /* tile_width = */ 6,//8,
+//    /* tile_hight = */ 8,//6,
+//    /* default_x_offset = */ 40,//32,
+//    /* flipmode_x_offset = */ 32,
+//    /* pixel_width = */ 48,//64,
+//    /* pixel_height = */ 64,//48
 };
 
 /* East Rising 0.66" OLED */
